@@ -6,7 +6,7 @@ Overview : Simple Spring boot application using Jersey as Jax-RS impl. Jersey En
 Steps to execute application.
 
 1. Install and run MongoDB on default port.
-2. create colletion with name customer_db;
+2. create colletion with name customer_db.
 3.create documents (customer records).
 [mongo db configuration are already specified in application.properties.]
 4.Go to AppMain class and run the class.
