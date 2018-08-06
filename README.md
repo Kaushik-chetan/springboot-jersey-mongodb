@@ -9,12 +9,12 @@ Steps to execute application.
 
 2. create colletion with name customer_db.
 
-3.create documents (customer records).
+3. Create documents (customer records).
 
 [mongo db configuration are already specified in application.properties.]
 
-4.Go to AppMain class and run the class.
+4. Go to AppMain class and run the class.
 
-5.access customer api at localhost:8080.
+5. Access customer api at localhost:8080.
 
 
