@@ -1,4 +1,4 @@
-# springboot-mongodb
+# springboot-jersey-mongodb
 Simple  Restful API with CRUD operation using Spring boot, Jersey and Mongo DB
 
 Overview : Simple Spring boot application using Jersey as Jax-RS impl. Jersey Endpoints connect with service layer which in turn calls Spring data Mongo repository to talk with mongo db.
